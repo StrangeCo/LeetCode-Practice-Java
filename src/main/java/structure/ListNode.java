@@ -5,10 +5,10 @@ package structure;
  */
 public class ListNode {
 
-    private int val;
-    private ListNode next;
+    public int val;
+    public ListNode next;
 
-    private ListNode(int x) {
+    public ListNode(int x) {
         val = x;
     }
 
@@ -44,5 +44,21 @@ public class ListNode {
             p = p.next;
         }
         System.out.println(str.append("]"));
+    }
+
+    @Override
+    public boolean equals(Object obj) {
+        ListNode listNode1 = this;
+        if (!(obj instanceof ListNode)) return false;
+        ListNode listNode2 = (ListNode) obj;
+        return isListNodeEquals(listNode1.next, listNode2.next);
+    }
+
+    private boolean isListNodeEquals(ListNode listNode1, ListNode listNode2) {
+        if (listNode1 == null && listNode2 == null) return true;
+        if (listNode1 == null) return false;
+        if (listNode2 == null) return false;
+        if (listNode1.val != listNode2.val) return false;
+        return isListNodeEquals(listNode1.next, listNode2.next);
     }
 }

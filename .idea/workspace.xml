@@ -1,13 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="eae7e682-7bf6-43cd-91a5-194a9cab4d34" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/hard/_004_Median_of_Two_Sorted_Arrays/MedianOfTwoSortedArrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/hard/_004_Median_of_Two_Sorted_Arrays/MedianOfTwoSortedArraysTest.java" afterDir="false" />
+    <list default="true" id="eae7e682-7bf6-43cd-91a5-194a9cab4d34" name="Default" comment="Commit 005 Longest Palindromic Substring">
+      <change afterPath="$PROJECT_DIR$/src/main/java/medium/_005_Longest_Palindromic_Substring/LongestPalindromicSubstring.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/medium/_005_Longest_Palindromic_Substring/LongestPalindromicSubstringTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/easy/_001_TWO_SUM/TwoSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/easy/_001_TWO_SUM/TwoSum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/medium/_002_Add_Two_Numbers/AddTwoNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/medium/_002_Add_Two_Numbers/AddTwoNumbers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/medium/_003_Longest_Substring_Without_Repeating_Characters/LongestSubstringWithoutRepeatingCharacters.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/medium/_003_Longest_Substring_Without_Repeating_Characters/LongestSubstringWithoutRepeatingCharacters.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -39,28 +36,26 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MedianOfTwoSortedArraysTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/hard/_004_Median_of_Two_Sorted_Arrays/MedianOfTwoSortedArraysTest.java">
+      <file leaf-file-name="LongestPalindromicSubstring.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/medium/_005_Longest_Palindromic_Substring/LongestPalindromicSubstring.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="266">
-              <caret line="16" column="16" selection-start-line="16" selection-start-column="16" selection-end-line="16" selection-end-column="16" />
+            <state relative-caret-position="290">
+              <caret line="29" column="40" selection-start-line="29" selection-start-column="13" selection-end-line="29" selection-end-column="40" />
+              <folding>
+                <element signature="e#602#603#0" expanded="true" />
+                <element signature="e#626#627#0" expanded="true" />
+                <element signature="e#2340#2341#0" expanded="true" />
+                <element signature="e#2365#2366#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Assert.java" pinned="false" current-in-tab="true">
-        <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/junit/junit/4.12/a6c32b40bf3d76eca54e3c601e5d1470c86fcdfa/junit-4.12-sources.jar!/org/junit/Assert.java">
+      <file leaf-file-name="LongestPalindromicSubstringTest.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/medium/_005_Longest_Palindromic_Substring/LongestPalindromicSubstringTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="179">
-              <caret line="679" column="24" lean-forward="true" selection-start-line="677" selection-start-column="20" selection-end-line="679" selection-end-column="24" />
-              <folding>
-                <element signature="e#3920#3921#0" expanded="true" />
-                <element signature="e#3966#3967#0" expanded="true" />
-                <element signature="e#4403#4404#0" expanded="true" />
-                <element signature="e#4455#4456#0" expanded="true" />
-                <element signature="e#25029#25030#0" expanded="true" />
-                <element signature="e#25081#25082#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="266">
+              <caret line="16" column="89" selection-start-line="16" selection-start-column="89" selection-end-line="16" selection-end-column="89" />
             </state>
           </provider>
         </entry>
@@ -460,6 +455,8 @@
         <option value="$PROJECT_DIR$/src/main/java/hard/_004_Median_of_Two_Sorted_Arrays/_004_Median_of_Two_Sorted_Arrays.java" />
         <option value="$PROJECT_DIR$/src/main/java/hard/_004_Median_of_Two_Sorted_Arrays/MedianOfTwoSortedArrays.java" />
         <option value="$PROJECT_DIR$/src/test/java/hard/_004_Median_of_Two_Sorted_Arrays/MedianOfTwoSortedArraysTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/medium/_005_Longest_Palindromic_Substring/LongestPalindromicSubstring.java" />
+        <option value="$PROJECT_DIR$/src/test/java/medium/_005_Longest_Palindromic_Substring/LongestPalindromicSubstringTest.java" />
       </list>
     </option>
   </component>
@@ -579,6 +576,15 @@
               <item name="LeetCode-Practice-Java" type="b2602c69:ProjectViewProjectNode" />
               <item name="LeetCode-Practice-Java" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="medium" type="462c0819:PsiDirectoryNode" />
+              <item name="_005_Longest_Palindromic_Substring" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCode-Practice-Java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeetCode-Practice-Java" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
             </path>
             <path>
@@ -604,6 +610,23 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="easy" type="462c0819:PsiDirectoryNode" />
               <item name="_001_TWO_SUM" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCode-Practice-Java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeetCode-Practice-Java" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="hard" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCode-Practice-Java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeetCode-Practice-Java" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="hard" type="462c0819:PsiDirectoryNode" />
+              <item name="_004_Median_of_Two_Sorted_Arrays" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="LeetCode-Practice-Java" type="b2602c69:ProjectViewProjectNode" />
@@ -652,11 +675,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="medium._005_Longest_Palindromic_Substring" />
       <recent name="hard._004_Median_of_Two_Sorted_Arrays" />
       <recent name="medium._003_Longest_Substring_Without_Repeating_Characters" />
       <recent name="medium._002_Add_Two_Numbers" />
       <recent name="easy._001_TWO_SUM" />
-      <recent name="structure" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="I:\Idea_code\LeetCode-Practice-Java\src\main\java" />
@@ -952,7 +975,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1537975859116</updated>
-      <workItem from="1537975862890" duration="37740000" />
+      <workItem from="1537975862890" duration="42993000" />
     </task>
     <task id="LOCAL-00001" summary="Commit Two Sum Solution">
       <created>1538122350955</created>
@@ -982,13 +1005,17 @@
       <option name="project" value="LOCAL" />
       <updated>1538742782145</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Commit 004 Median of Two Sorted Arrays">
+      <created>1538853725846</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1538853725846</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="AddTwoNumbersTest - 2018.09.29 at 01h 10m 04s.xml">
-      <configuration name="AddTwoNumbersTest" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="AddTwoNumbersTest - 2018.09.29 at 01h 10m 23s.xml">
       <configuration name="AddTwoNumbersTest" configurationId="JUnit" />
     </history-entry>
@@ -1016,9 +1043,12 @@
     <history-entry file="LongestSubstringWithoutRepeatingCharactersTest - 2018.10.05 at 20h 32m 15s.xml">
       <configuration name="LongestSubstringWithoutRepeatingCharactersTest" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="MedianOfTwoSortedArraysTest - 2018.10.07 at 03h 21m 17s.xml">
+      <configuration name="MedianOfTwoSortedArraysTest" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="37740000" />
+    <option name="totallyTimeSpent" value="42993000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -1067,7 +1097,9 @@
     <MESSAGE value="修改完善ReadMe" />
     <MESSAGE value="Commit Add Two Numbers Solution" />
     <MESSAGE value="Commit Longest Substring Without Repeating Characters" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit Longest Substring Without Repeating Characters" />
+    <MESSAGE value="Commit 004 Median of Two Sorted Arrays" />
+    <MESSAGE value="Commit 005 Longest Palindromic Substring" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit 005 Longest Palindromic Substring" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1246,24 +1278,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/hard/_004_Median_of_Two_Sorted_Arrays/MedianOfTwoSortedArrays.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="217">
-          <caret line="40" column="36" selection-start-line="40" selection-start-column="13" selection-end-line="40" selection-end-column="36" />
-          <folding>
-            <element signature="e#857#858#0" expanded="true" />
-            <element signature="e#881#882#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/hard/_004_Median_of_Two_Sorted_Arrays/MedianOfTwoSortedArraysTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="16" column="16" selection-start-line="16" selection-start-column="16" selection-end-line="16" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/junit/junit/4.12/a6c32b40bf3d76eca54e3c601e5d1470c86fcdfa/junit-4.12-sources.jar!/org/junit/Assert.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="179">
@@ -1276,6 +1290,44 @@
             <element signature="e#25029#25030#0" expanded="true" />
             <element signature="e#25081#25082#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/hard/_004_Median_of_Two_Sorted_Arrays/MedianOfTwoSortedArraysTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="16" column="39" selection-start-line="16" selection-start-column="39" selection-end-line="16" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/hard/_004_Median_of_Two_Sorted_Arrays/MedianOfTwoSortedArrays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="217">
+          <caret line="40" column="36" selection-start-line="40" selection-start-column="13" selection-end-line="40" selection-end-column="36" />
+          <folding>
+            <element signature="e#857#858#0" expanded="true" />
+            <element signature="e#881#882#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/medium/_005_Longest_Palindromic_Substring/LongestPalindromicSubstring.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="290">
+          <caret line="29" column="40" selection-start-line="29" selection-start-column="13" selection-end-line="29" selection-end-column="40" />
+          <folding>
+            <element signature="e#602#603#0" expanded="true" />
+            <element signature="e#626#627#0" expanded="true" />
+            <element signature="e#2340#2341#0" expanded="true" />
+            <element signature="e#2365#2366#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/medium/_005_Longest_Palindromic_Substring/LongestPalindromicSubstringTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="16" column="89" selection-start-line="16" selection-start-column="89" selection-end-line="16" selection-end-column="89" />
         </state>
       </provider>
     </entry>

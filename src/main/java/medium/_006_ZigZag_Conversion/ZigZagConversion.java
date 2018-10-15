@@ -27,6 +27,9 @@ package medium._006_ZigZag_Conversion;
  * P     I
  */
 
+import java.util.ArrayList;
+import java.util.List;
+
 /**
  * 将字符串 "PAYPALISHIRING" 以Z字形排列成给定的行数：
  * P   A   H   N
@@ -54,37 +57,74 @@ public class ZigZagConversion {
     }
 
     /**
-     * numRows = 3
-     *
-     * @param s
-     * @param numRows
-     * @return
+     * 这个不是想出来的答案哈,是官方论坛上的答案
      */
     public String myConvert(String s, int numRows) {
-        if (numRows == 1) return s;
-        StringBuilder stringBuilder = new StringBuilder();
-        int count = 0;
-        int length = s.length();
+        if (numRows <= 1) return s;
+        StringBuilder[] sb = new StringBuilder[numRows];
+        for (int i = 0; i < sb.length; i++) {
+            sb[i] = new StringBuilder();   //init every sb element **important step!!!!
+        }
+        int incre = 1;
         int index = 0;
-        while (count < length) {
-            if (index < length) {
-                stringBuilder.append(s.charAt(index));
-                int index2 = index + numRows * 2 - 2;
-                if (index2 < length) {
-                    stringBuilder.append(index2);
-                } else {
-                    index++;
-                }
+        for (int i = 0; i < s.length(); i++) {
+            sb[index].append(s.charAt(i));
+            if (index == 0) {
+                incre = 1;
+            }
+            if (index == numRows - 1) {
+                incre = -1;
+            }
+            index += incre;
+        }
+        StringBuilder re = new StringBuilder();
+        for (StringBuilder aSb : sb) {
+            re.append(aSb);
+        }
+        return re.toString();
+    }
+
+    /**
+     * 按行排序
+     */
+    public String solutionConvert1(String s, int numRows) {
+        if (numRows == 1) return s;
+
+        List<StringBuilder> rows = new ArrayList<>();
+        for (int i = 0; i < Math.min(numRows, s.length()); i++)
+            rows.add(new StringBuilder());
+
+        int curRow = 0;
+        boolean goingDown = false;
+
+        for (char c : s.toCharArray()) {
+            rows.get(curRow).append(c);
+            if (curRow == 0 || curRow == numRows - 1) goingDown = !goingDown;
+            curRow += goingDown ? 1 : -1;
+        }
+
+        StringBuilder ret = new StringBuilder();
+        for (StringBuilder row : rows) ret.append(row);
+        return ret.toString();
+    }
+
+    /**
+     * 按行访问
+     */
+    public String solutionConvert2(String s, int numRows) {
+        if (numRows == 1) return s;
+
+        StringBuilder ret = new StringBuilder();
+        int n = s.length();
+        int cycleLen = 2 * numRows - 2;
+
+        for (int i = 0; i < numRows; i++) {
+            for (int j = 0; j + i < n; j += cycleLen) {
+                ret.append(s.charAt(j + i));
+                if (i != 0 && i != numRows - 1 && j + cycleLen - i < n)
+                    ret.append(s.charAt(j + cycleLen - i));
             }
         }
-        return stringBuilder.toString();
-    }
-
-    public String solutionConvert(String s, int numRows) {
-        return "";
-    }
-
-    public String faststConvert(String s, int numRows) {
-        return "";
+        return ret.toString();
     }
 }

@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="eae7e682-7bf6-43cd-91a5-194a9cab4d34" name="Default" comment="Commit 006 ZigZag Conversion">
-      <change afterPath="$PROJECT_DIR$/src/main/java/easy/_007_Reverse_Integer/ReverseInteger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/easy/_007_Reverse_Integer/ReverseIntegerTest.java" afterDir="false" />
+    <list default="true" id="eae7e682-7bf6-43cd-91a5-194a9cab4d34" name="Default" comment="Commit 007 Reverse Integer">
+      <change afterPath="$PROJECT_DIR$/src/main/java/medium/_008_String_Reverse_Integer/StringReverseInteger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/medium/_008_String_Reverse_Integer/StringReverseIntegerTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/easy/_001_TWO_SUM/TwoSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/easy/_001_Two_Sum/TwoSum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/easy/_001_TWO_SUM/TwoSumTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/easy/_001_Two_Sum/TwoSumTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/easy/_001_TWO_SUM/TwoSum.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/easy/_001_TWO_SUM/TwoSum.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/easy/_001_TWO_SUM/TwoSumTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/easy/_001_TWO_SUM/TwoSumTest.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -26,36 +26,37 @@
     <session id="-576422895">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="4" />
+          <entry key="project.closed" value="5" />
+          <entry key="project.open.time.12" value="1" />
           <entry key="project.open.time.13" value="1" />
           <entry key="project.open.time.16" value="1" />
           <entry key="project.open.time.17" value="1" />
           <entry key="project.open.time.2" value="1" />
           <entry key="project.open.time.30" value="1" />
           <entry key="project.open.time.7" value="1" />
-          <entry key="project.opened" value="6" />
+          <entry key="project.opened" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="905" />
-          <entry key="txt" value="8" />
+          <entry key="java" value="1901" />
+          <entry key="txt" value="28" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="905" />
-          <entry key="PLAIN_TEXT" value="8" />
+          <entry key="JAVA" value="1901" />
+          <entry key="PLAIN_TEXT" value="28" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="4" />
+          <entry key="java" value="8" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="4" />
+          <entry key="JAVA" value="8" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.vcs.git.usages">
@@ -66,87 +67,44 @@
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+    <leaf>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/hard/_004_Median_of_Two_Sorted_Arrays/MedianOfTwoSortedArrays.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/easy/_007_Reverse_Integer/ReverseInteger.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="760">
-              <caret line="40" column="36" selection-start-line="40" selection-start-column="13" selection-end-line="40" selection-end-column="36" />
+            <state relative-caret-position="266">
+              <caret line="47" lean-forward="true" selection-start-line="47" selection-end-line="47" />
               <folding>
-                <element signature="e#881#882#0" expanded="true" />
-                <element signature="e#905#906#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/medium/_005_Longest_Palindromic_Substring/LongestPalindromicSubstring.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="551">
-              <caret line="29" column="40" selection-start-line="29" selection-start-column="13" selection-end-line="29" selection-end-column="40" />
-              <folding>
-                <element signature="e#602#603#0" expanded="true" />
-                <element signature="e#627#628#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/medium/_005_Longest_Palindromic_Substring/LongestPalindromicSubstringTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="361">
-              <caret line="21" column="45" selection-start-line="21" selection-start-column="45" selection-end-line="21" selection-end-column="45" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/medium/_006_ZigZag_Conversion/ZigZagConversion.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="453">
-              <caret line="80" column="38" lean-forward="true" selection-start-line="80" selection-start-column="38" selection-end-line="80" selection-end-column="38" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#1232#1233#0" expanded="true" />
-                <element signature="e#1257#1258#0" expanded="true" />
+                <element signature="e#853#854#0" expanded="true" />
+                <element signature="e#877#878#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/easy/_007_Reverse_Integer/ReverseInteger.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/medium/_008_String_Reverse_Integer/StringReverseInteger.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="331">
-              <caret line="56" column="28" lean-forward="true" selection-start-line="56" selection-start-column="28" selection-end-line="56" selection-end-column="28" />
+            <state relative-caret-position="-44">
+              <caret line="124" column="28" selection-start-line="124" selection-start-column="28" selection-end-line="124" selection-end-column="28" />
               <folding>
-                <element signature="e#853#854#0" expanded="true" />
-                <element signature="e#876#877#0" expanded="true" />
+                <element signature="e#3072#3073#0" expanded="true" />
+                <element signature="e#3095#3096#0" expanded="true" />
+                <element signature="e#4776#4777#0" expanded="true" />
+                <element signature="e#4818#4819#0" expanded="true" />
+                <element signature="e#4853#4854#0" expanded="true" />
+                <element signature="e#4893#4894#0" expanded="true" />
+                <element signature="e#4928#4929#0" expanded="true" />
+                <element signature="e#4967#4968#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/easy/_007_Reverse_Integer/ReverseIntegerTest.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/medium/_008_String_Reverse_Integer/StringReverseIntegerTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="171">
-              <caret line="11" column="26" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/medium/_006_ZigZag_Conversion/ZigZagConversionTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="17" column="44" lean-forward="true" selection-start-line="17" selection-start-column="44" selection-end-line="17" selection-end-column="44" />
-              <folding>
-                <element signature="e#338#339#0" expanded="true" />
-                <element signature="e#368#369#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="296">
+              <caret line="36" column="28" selection-start-line="36" selection-start-column="28" selection-end-line="36" selection-end-column="28" />
             </state>
           </provider>
         </entry>
@@ -553,8 +511,10 @@
         <option value="$PROJECT_DIR$/src/test/java/medium/_005_Longest_Palindromic_Substring/LongestPalindromicSubstringTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/medium/_006_ZigZag_Conversion/ZigZagConversion.java" />
         <option value="$PROJECT_DIR$/src/test/java/medium/_006_ZigZag_Conversion/ZigZagConversionTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/easy/_007_Reverse_Integer/ReverseInteger.java" />
         <option value="$PROJECT_DIR$/src/test/java/easy/_007_Reverse_Integer/ReverseIntegerTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/easy/_007_Reverse_Integer/ReverseInteger.java" />
+        <option value="$PROJECT_DIR$/src/test/java/medium/_008_String_Reverse_Integer/StringReverseIntegerTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/medium/_008_String_Reverse_Integer/StringReverseInteger.java" />
       </list>
     </option>
   </component>
@@ -579,6 +539,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -611,32 +572,6 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="easy" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LeetCode-Practice-Java" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LeetCode-Practice-Java" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="easy" type="462c0819:PsiDirectoryNode" />
-              <item name="_001_Two_Sum" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LeetCode-Practice-Java" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LeetCode-Practice-Java" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="easy" type="462c0819:PsiDirectoryNode" />
-              <item name="_007_Reverse_Integer" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LeetCode-Practice-Java" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LeetCode-Practice-Java" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="medium" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -652,6 +587,15 @@
               <item name="LeetCode-Practice-Java" type="b2602c69:ProjectViewProjectNode" />
               <item name="LeetCode-Practice-Java" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="medium" type="462c0819:PsiDirectoryNode" />
+              <item name="_008_String_Reverse_Integer" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCode-Practice-Java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeetCode-Practice-Java" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
             </path>
             <path>
@@ -675,20 +619,27 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="easy" type="462c0819:PsiDirectoryNode" />
-              <item name="_007_Reverse_Integer" type="462c0819:PsiDirectoryNode" />
+              <item name="medium" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCode-Practice-Java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeetCode-Practice-Java" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="medium" type="462c0819:PsiDirectoryNode" />
+              <item name="_008_String_Reverse_Integer" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1539657944634" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1539744188220" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -701,24 +652,24 @@
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="medium._008_String_Reverse_Integer" />
       <recent name="easy._007_Reverse_Integer" />
       <recent name="medium._006_ZigZag_Conversion" />
       <recent name="medium._005_Longest_Palindromic_Substring" />
       <recent name="hard._004_Median_of_Two_Sorted_Arrays" />
-      <recent name="medium._003_Longest_Substring_Without_Repeating_Characters" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\idea_project_place\LeetCode-Practice-Java\src\main\java\medium" />
-      <recent name="I:\Idea_code\LeetCode-Practice-Java\src\main\java" />
-    </key>
-    <key name="CreateTestDialog.Recents.Supers">
-      <recent name="" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="I:\Idea_code\LeetCode-Practice-Java\src\main\java" />
       <recent name="I:\Idea_code\LeetCode-Practice-Java\src" />
       <recent name="I:\Idea_code\LeetCode-Practice-Java\test\test" />
       <recent name="I:\Idea_code\LeetCode-Practice-Java" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\idea_project_place\LeetCode-Practice-Java\src\main\java\medium" />
+      <recent name="I:\Idea_code\LeetCode-Practice-Java\src\main\java" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -733,7 +684,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.ReverseIntegerTest">
+  <component name="RunManager" selected="JUnit.StringReverseIntegerTest">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
@@ -750,21 +701,6 @@
       </extension>
       <option name="PACKAGE_NAME" value="medium._002_Add_Two_Numbers" />
       <option name="MAIN_CLASS_NAME" value="medium._002_Add_Two_Numbers.AddTwoNumbersTest" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="LongestSubstringWithoutRepeatingCharactersTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="LeetCode-Practice-Java_test" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="medium._003_Longest_Substring_Without_Repeating_Characters.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="medium._003_Longest_Substring_Without_Repeating_Characters" />
-      <option name="MAIN_CLASS_NAME" value="medium._003_Longest_Substring_Without_Repeating_Characters.LongestSubstringWithoutRepeatingCharactersTest" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -795,6 +731,21 @@
       </extension>
       <option name="PACKAGE_NAME" value="easy._007_Reverse_Integer" />
       <option name="MAIN_CLASS_NAME" value="easy._007_Reverse_Integer.ReverseIntegerTest" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringReverseIntegerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="LeetCode-Practice-Java_test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="medium._008_String_Reverse_Integer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="medium._008_String_Reverse_Integer" />
+      <option name="MAIN_CLASS_NAME" value="medium._008_String_Reverse_Integer.StringReverseIntegerTest" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -831,18 +782,18 @@
     </configuration>
     <list>
       <item itemvalue="JUnit.AddTwoNumbersTest" />
-      <item itemvalue="JUnit.LongestSubstringWithoutRepeatingCharactersTest" />
       <item itemvalue="JUnit.MedianOfTwoSortedArraysTest" />
       <item itemvalue="JUnit.ZigZagConversionTest" />
       <item itemvalue="JUnit.ReverseIntegerTest" />
+      <item itemvalue="JUnit.StringReverseIntegerTest" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.StringReverseIntegerTest" />
         <item itemvalue="JUnit.ReverseIntegerTest" />
         <item itemvalue="JUnit.ZigZagConversionTest" />
         <item itemvalue="JUnit.AddTwoNumbersTest" />
         <item itemvalue="JUnit.MedianOfTwoSortedArraysTest" />
-        <item itemvalue="JUnit.LongestSubstringWithoutRepeatingCharactersTest" />
       </list>
     </recent_temporary>
   </component>
@@ -862,7 +813,8 @@
       <workItem from="1538990675006" duration="111000" />
       <workItem from="1538990791912" duration="3295000" />
       <workItem from="1539075132793" duration="2000" />
-      <workItem from="1539566894648" duration="5254000" />
+      <workItem from="1539566894648" duration="5565000" />
+      <workItem from="1539740208686" duration="3833000" />
     </task>
     <task id="LOCAL-00001" summary="Commit Two Sum Solution">
       <created>1538122350955</created>
@@ -906,31 +858,17 @@
       <option name="project" value="LOCAL" />
       <updated>1539570133557</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Commit 007 Reverse Integer">
+      <created>1539658008999</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1539658008999</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="AddTwoNumbersTest - 2018.09.29 at 01h 39m 51s.xml">
-      <configuration name="AddTwoNumbersTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="AddTwoNumbersTest - 2018.10.05 at 19h 44m 19s.xml">
-      <configuration name="AddTwoNumbersTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="LongestSubstringWithoutRepeatingCharactersTest - 2018.10.05 at 20h 32m 15s.xml">
-      <configuration name="LongestSubstringWithoutRepeatingCharactersTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="MedianOfTwoSortedArraysTest - 2018.10.07 at 03h 21m 17s.xml">
-      <configuration name="MedianOfTwoSortedArraysTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="AddTwoNumbersTest - 2018.10.08 at 17h 02m 45s.xml">
-      <configuration name="AddTwoNumbersTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ZigZagConversionTest - 2018.10.15 at 10h 10m 07s.xml">
-      <configuration name="ZigZagConversionTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ZigZagConversionTest - 2018.10.15 at 10h 15m 34s.xml">
-      <configuration name="ZigZagConversionTest" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="ZigZagConversionTest - 2018.10.15 at 10h 20m 17s.xml">
       <configuration name="ZigZagConversionTest" configurationId="JUnit" />
     </history-entry>
@@ -940,15 +878,36 @@
     <history-entry file="ReverseIntegerTest - 2018.10.16 at 10h 39m 13s.xml">
       <configuration name="ReverseIntegerTest" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="ReverseIntegerTest - 2018.10.16 at 10h 43m 36s.xml">
+      <configuration name="ReverseIntegerTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ReverseIntegerTest - 2018.10.17 at 10h 21m 51s.xml">
+      <configuration name="ReverseIntegerTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ReverseIntegerTest - 2018.10.17 at 10h 32m 33s.xml">
+      <configuration name="ReverseIntegerTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="StringReverseIntegerTest - 2018.10.17 at 10h 35m 02s.xml">
+      <configuration name="StringReverseIntegerTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="StringReverseIntegerTest - 2018.10.17 at 10h 35m 28s.xml">
+      <configuration name="StringReverseIntegerTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="StringReverseIntegerTest - 2018.10.17 at 10h 36m 56s.xml">
+      <configuration name="StringReverseIntegerTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="StringReverseIntegerTest - 2018.10.17 at 10h 38m 16s.xml">
+      <configuration name="StringReverseIntegerTest" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="53061000" />
+    <option name="totallyTimeSpent" value="57205000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2692802" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27249357" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -957,8 +916,8 @@
       <window_info id="Capture Tool" order="6" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32884097" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39942938" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32884097" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39892185" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -994,7 +953,8 @@
     <MESSAGE value="Commit 004 Median of Two Sorted Arrays" />
     <MESSAGE value="Commit 005 Longest Palindromic Substring" />
     <MESSAGE value="Commit 006 ZigZag Conversion" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit 006 ZigZag Conversion" />
+    <MESSAGE value="Commit 007 Reverse Integer" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit 007 Reverse Integer" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/build.gradle">
@@ -1125,10 +1085,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="760">
           <caret line="40" column="36" selection-start-line="40" selection-start-column="13" selection-end-line="40" selection-end-column="36" />
-          <folding>
-            <element signature="e#881#882#0" expanded="true" />
-            <element signature="e#905#906#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1154,10 +1110,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
           <caret line="17" column="44" lean-forward="true" selection-start-line="17" selection-start-column="44" selection-end-line="17" selection-end-column="44" />
-          <folding>
-            <element signature="e#338#339#0" expanded="true" />
-            <element signature="e#368#369#0" expanded="true" />
-          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/easy/_007_Reverse_Integer/ReverseIntegerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="11" column="26" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
         </state>
       </provider>
     </entry>
@@ -1173,20 +1132,44 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/easy/_007_Reverse_Integer/ReverseIntegerTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/easy/_007_Reverse_Integer/ReverseInteger.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="11" column="26" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
+        <state relative-caret-position="266">
+          <caret line="47" lean-forward="true" selection-start-line="47" selection-end-line="47" />
+          <folding>
+            <element signature="e#853#854#0" expanded="true" />
+            <element signature="e#877#878#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/easy/_007_Reverse_Integer/ReverseInteger.java">
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/lang/Integer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="331">
-          <caret line="56" column="28" lean-forward="true" selection-start-line="56" selection-start-column="28" selection-end-line="56" selection-end-column="28" />
+        <state relative-caret-position="238">
+          <caret line="56" column="38" selection-start-line="56" selection-start-column="38" selection-end-line="56" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/medium/_008_String_Reverse_Integer/StringReverseIntegerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="296">
+          <caret line="36" column="28" selection-start-line="36" selection-start-column="28" selection-end-line="36" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/medium/_008_String_Reverse_Integer/StringReverseInteger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-44">
+          <caret line="124" column="28" selection-start-line="124" selection-start-column="28" selection-end-line="124" selection-end-column="28" />
           <folding>
-            <element signature="e#853#854#0" expanded="true" />
-            <element signature="e#876#877#0" expanded="true" />
+            <element signature="e#3072#3073#0" expanded="true" />
+            <element signature="e#3095#3096#0" expanded="true" />
+            <element signature="e#4776#4777#0" expanded="true" />
+            <element signature="e#4818#4819#0" expanded="true" />
+            <element signature="e#4853#4854#0" expanded="true" />
+            <element signature="e#4893#4894#0" expanded="true" />
+            <element signature="e#4928#4929#0" expanded="true" />
+            <element signature="e#4967#4968#0" expanded="true" />
           </folding>
         </state>
       </provider>

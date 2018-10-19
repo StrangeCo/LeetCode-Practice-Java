@@ -1,4 +1,4 @@
-package easy._001_TWO_SUM;
+package easy._001_Two_Sum;
 
 import java.util.HashMap;
 import java.util.Map;

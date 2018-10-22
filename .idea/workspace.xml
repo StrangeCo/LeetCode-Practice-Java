@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eae7e682-7bf6-43cd-91a5-194a9cab4d34" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/easy/_013_Roman_To_Integer/RomanToInteger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/easy/_013_Roman_To_Integer/RomanToIntegerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/easy/_014_Longest_Common_Prefix/LongestCommonPrefix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/easy/_014_Longest_Common_Prefix/LongestCommonPrefixTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/medium/_12_Integer_to_Roman/IntegerToRoman.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/medium/_12_Integer_to_Roman/IntegerToRoman.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -91,20 +90,42 @@
       <file leaf-file-name="IntegerToRoman.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/medium/_12_Integer_to_Roman/IntegerToRoman.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1805">
-              <caret line="178" column="7" lean-forward="true" selection-start-line="178" selection-start-column="7" selection-end-line="178" selection-end-column="7" />
+            <state relative-caret-position="3344">
+              <caret line="178" column="7" selection-start-line="178" selection-start-column="7" selection-end-line="178" selection-end-column="7" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="RomanToInteger.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="RomanToInteger.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/easy/_013_Roman_To_Integer/RomanToInteger.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1451">
-              <caret line="97" column="7" lean-forward="true" selection-start-line="97" selection-start-column="7" selection-end-line="97" selection-end-column="7" />
+            <state relative-caret-position="348">
+              <caret line="104" column="49" selection-start-line="104" selection-start-column="49" selection-end-line="104" selection-end-column="49" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LongestCommonPrefix.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/easy/_014_Longest_Common_Prefix/LongestCommonPrefix.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-133">
+              <caret line="50" column="15" selection-start-line="50" selection-start-column="15" selection-end-line="50" selection-end-column="15" />
               <folding>
-                <element signature="e#2473#2474#0" expanded="true" />
-                <element signature="e#2497#2498#0" expanded="true" />
+                <element signature="e#839#840#0" expanded="true" />
+                <element signature="e#863#864#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LongestCommonPrefixTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/easy/_014_Longest_Common_Prefix/LongestCommonPrefixTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="304">
+              <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+              <folding>
+                <element signature="e#353#354#0" expanded="true" />
+                <element signature="e#383#384#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -114,7 +135,7 @@
         <entry file="file://$PROJECT_DIR$/src/test/java/easy/_013_Roman_To_Integer/RomanToIntegerTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="152">
-              <caret line="10" column="21" lean-forward="true" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
+              <caret line="10" column="21" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -123,7 +144,7 @@
         <entry file="file://$PROJECT_DIR$/src/test/java/medium/_12_Integer_to_Roman/IntegerToRomanTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="266">
-              <caret line="16" column="39" lean-forward="true" selection-start-line="7" selection-start-column="4" selection-end-line="16" selection-end-column="39" />
+              <caret line="16" column="39" selection-start-line="7" selection-start-column="4" selection-end-line="16" selection-end-column="39" />
             </state>
           </provider>
         </entry>
@@ -547,6 +568,8 @@
         <option value="$PROJECT_DIR$/src/main/java/medium/_12_Integer_to_Roman/IntegerToRoman.java" />
         <option value="$PROJECT_DIR$/src/test/java/easy/_013_Roman_To_Integer/RomanToIntegerTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/easy/_013_Roman_To_Integer/RomanToInteger.java" />
+        <option value="$PROJECT_DIR$/src/test/java/easy/_014_Longest_Common_Prefix/LongestCommonPrefixTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/easy/_014_Longest_Common_Prefix/LongestCommonPrefix.java" />
       </list>
     </option>
   </component>
@@ -574,7 +597,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -623,6 +647,15 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="easy" type="462c0819:PsiDirectoryNode" />
+              <item name="_014_Longest_Common_Prefix" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCode-Practice-Java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeetCode-Practice-Java" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="structure" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -655,12 +688,20 @@
               <item name="easy" type="462c0819:PsiDirectoryNode" />
               <item name="_013_Roman_To_Integer" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="LeetCode-Practice-Java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeetCode-Practice-Java" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="easy" type="462c0819:PsiDirectoryNode" />
+              <item name="_014_Longest_Common_Prefix" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="AndroidView" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -679,25 +720,25 @@
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="easy._014_Longest_Common_Prefix" />
       <recent name="easy._013_Roman_To_Integer" />
       <recent name="medium._12_Integer_to_Roman" />
       <recent name="medium._011_Container_With_Most_Water" />
       <recent name="medium._008_String_Reverse_Integer" />
-      <recent name="easy._007_Reverse_Integer" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="I:\Idea_code\LeetCode-Practice-Java\src\main\java\easy\_011_Container_With_Most_Water" />
+      <recent name="D:\idea_project_place\LeetCode-Practice-Java\src\main\java\medium" />
+      <recent name="I:\Idea_code\LeetCode-Practice-Java\src\main\java" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="I:\Idea_code\LeetCode-Practice-Java\src\main\java" />
       <recent name="I:\Idea_code\LeetCode-Practice-Java\src" />
       <recent name="I:\Idea_code\LeetCode-Practice-Java\test\test" />
       <recent name="I:\Idea_code\LeetCode-Practice-Java" />
-    </key>
-    <key name="CreateTestDialog.Recents.Supers">
-      <recent name="" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="I:\Idea_code\LeetCode-Practice-Java\src\main\java\easy\_011_Container_With_Most_Water" />
-      <recent name="D:\idea_project_place\LeetCode-Practice-Java\src\main\java\medium" />
-      <recent name="I:\Idea_code\LeetCode-Practice-Java\src\main\java" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -712,7 +753,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.RomanToIntegerTest">
+  <component name="RunManager" selected="JUnit.LongestCommonPrefixTest">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -762,18 +803,18 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="LongestSubstringWithoutRepeatingCharactersTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="LongestCommonPrefixTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="LeetCode-Practice-Java_test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="medium._003_Longest_Substring_Without_Repeating_Characters.*" />
+          <option name="PATTERN" value="easy._014_Longest_Common_Prefix.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="medium._003_Longest_Substring_Without_Repeating_Characters" />
-      <option name="MAIN_CLASS_NAME" value="medium._003_Longest_Substring_Without_Repeating_Characters.LongestSubstringWithoutRepeatingCharactersTest" />
+      <option name="PACKAGE_NAME" value="easy._014_Longest_Common_Prefix" />
+      <option name="MAIN_CLASS_NAME" value="easy._014_Longest_Common_Prefix.LongestCommonPrefixTest" />
       <option name="METHOD_NAME" />
       <option name="TEST_OBJECT" value="class" />
       <option name="VM_PARAMETERS" value="-ea" />
@@ -870,19 +911,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="JUnit.LongestSubstringWithoutRepeatingCharactersTest" />
       <item itemvalue="JUnit.MedianOfTwoSortedArraysTest" />
       <item itemvalue="JUnit.ContainerWithMostWaterTest" />
       <item itemvalue="JUnit.IntegerToRomanTest" />
       <item itemvalue="JUnit.RomanToIntegerTest" />
+      <item itemvalue="JUnit.LongestCommonPrefixTest" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.LongestCommonPrefixTest" />
         <item itemvalue="JUnit.RomanToIntegerTest" />
         <item itemvalue="JUnit.IntegerToRomanTest" />
         <item itemvalue="JUnit.ContainerWithMostWaterTest" />
         <item itemvalue="JUnit.MedianOfTwoSortedArraysTest" />
-        <item itemvalue="JUnit.LongestSubstringWithoutRepeatingCharactersTest" />
       </list>
     </recent_temporary>
   </component>
@@ -899,7 +940,8 @@
       <workItem from="1537975862890" duration="42993000" />
       <workItem from="1539963204430" duration="2184000" />
       <workItem from="1540025621760" duration="3868000" />
-      <workItem from="1540119369388" duration="3700000" />
+      <workItem from="1540119369388" duration="3880000" />
+      <workItem from="1540132729119" duration="5027000" />
     </task>
     <task id="LOCAL-00001" summary="Commit Two Sum Solution">
       <created>1538122350955</created>
@@ -950,28 +992,17 @@
       <option name="project" value="LOCAL" />
       <updated>1540029477349</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Commit 013 Roman to Integer">
+      <created>1540123892626</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1540123892626</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="IntegerToRomanTest - 2018.10.20 at 17h 53m 14s.xml">
-      <configuration name="IntegerToRomanTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="RomanToIntegerTest - 2018.10.21 at 19h 45m 19s.xml">
-      <configuration name="RomanToIntegerTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="RomanToIntegerTest - 2018.10.21 at 19h 46m 07s.xml">
-      <configuration name="RomanToIntegerTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="RomanToIntegerTest - 2018.10.21 at 19h 49m 00s.xml">
-      <configuration name="RomanToIntegerTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="RomanToIntegerTest - 2018.10.21 at 19h 51m 08s.xml">
-      <configuration name="RomanToIntegerTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="RomanToIntegerTest - 2018.10.21 at 19h 55m 47s.xml">
-      <configuration name="RomanToIntegerTest" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="RomanToIntegerTest - 2018.10.21 at 19h 57m 14s.xml">
       <configuration name="RomanToIntegerTest" configurationId="JUnit" />
     </history-entry>
@@ -984,9 +1015,27 @@
     <history-entry file="RomanToIntegerTest - 2018.10.21 at 20h 06m 39s.xml">
       <configuration name="RomanToIntegerTest" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="RomanToIntegerTest - 2018.10.21 at 20h 10m 51s.xml">
+      <configuration name="RomanToIntegerTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="LongestCommonPrefixTest - 2018.10.22 at 14h 21m 14s.xml">
+      <configuration name="LongestCommonPrefixTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="LongestCommonPrefixTest - 2018.10.22 at 14h 24m 00s.xml">
+      <configuration name="LongestCommonPrefixTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="LongestCommonPrefixTest - 2018.10.22 at 14h 24m 48s.xml">
+      <configuration name="LongestCommonPrefixTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="LongestCommonPrefixTest - 2018.10.22 at 14h 25m 20s.xml">
+      <configuration name="LongestCommonPrefixTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="LongestCommonPrefixTest - 2018.10.22 at 14h 26m 14s.xml">
+      <configuration name="LongestCommonPrefixTest" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="52909000" />
+    <option name="totallyTimeSpent" value="58116000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -1002,11 +1051,11 @@
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32952926" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32952926" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32952926" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.32952926" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26340482" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26675603" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="right" id="Gradle" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -1022,6 +1071,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="right" id="Coverage" order="4" side_tool="true" weight="0.3297587" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -1040,28 +1090,15 @@
     <MESSAGE value="Commit 011" />
     <MESSAGE value="Commit 011 Container With MostWater" />
     <MESSAGE value="Commit 012 Integer to Roman" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit 012 Integer to Roman" />
+    <MESSAGE value="Commit 013 Roman to Integer" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit 013 Roman to Integer" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="4" />
+      <option name="time" value="6" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/test/java/medium/_002_Add_Two_Numbers/AddTwoNumbersTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="12" column="33" lean-forward="true" selection-start-line="12" selection-start-column="33" selection-end-line="12" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/medium/_002_Add_Two_Numbers/AddTwoNumbers.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="15" column="10" selection-start-line="15" selection-start-column="10" selection-end-line="15" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/easy/_001_Two_Sum/TwoSum.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
@@ -1330,32 +1367,50 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/medium/_12_Integer_to_Roman/IntegerToRoman.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1805">
-          <caret line="178" column="7" lean-forward="true" selection-start-line="178" selection-start-column="7" selection-end-line="178" selection-end-column="7" />
+        <state relative-caret-position="3344">
+          <caret line="178" column="7" selection-start-line="178" selection-start-column="7" selection-end-line="178" selection-end-column="7" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/medium/_12_Integer_to_Roman/IntegerToRomanTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="266">
-          <caret line="16" column="39" lean-forward="true" selection-start-line="7" selection-start-column="4" selection-end-line="16" selection-end-column="39" />
+          <caret line="16" column="39" selection-start-line="7" selection-start-column="4" selection-end-line="16" selection-end-column="39" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/easy/_013_Roman_To_Integer/RomanToIntegerTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="152">
-          <caret line="10" column="21" lean-forward="true" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
+          <caret line="10" column="21" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/easy/_013_Roman_To_Integer/RomanToInteger.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1451">
-          <caret line="97" column="7" lean-forward="true" selection-start-line="97" selection-start-column="7" selection-end-line="97" selection-end-column="7" />
+        <state relative-caret-position="348">
+          <caret line="104" column="49" selection-start-line="104" selection-start-column="49" selection-end-line="104" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/easy/_014_Longest_Common_Prefix/LongestCommonPrefixTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
           <folding>
-            <element signature="e#2473#2474#0" expanded="true" />
-            <element signature="e#2497#2498#0" expanded="true" />
+            <element signature="e#353#354#0" expanded="true" />
+            <element signature="e#383#384#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/easy/_014_Longest_Common_Prefix/LongestCommonPrefix.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-133">
+          <caret line="50" column="15" selection-start-line="50" selection-start-column="15" selection-end-line="50" selection-end-column="15" />
+          <folding>
+            <element signature="e#839#840#0" expanded="true" />
+            <element signature="e#863#864#0" expanded="true" />
           </folding>
         </state>
       </provider>

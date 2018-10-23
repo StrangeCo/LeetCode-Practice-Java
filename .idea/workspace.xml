@@ -1,25 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="eae7e682-7bf6-43cd-91a5-194a9cab4d34" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/easy/_014_Longest_Common_Prefix/LongestCommonPrefix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/easy/_014_Longest_Common_Prefix/LongestCommonPrefixTest.java" afterDir="false" />
+    <list default="true" id="eae7e682-7bf6-43cd-91a5-194a9cab4d34" name="Default" comment="Commit 009 Palindrome Number">
+      <change afterPath="$PROJECT_DIR$/.idea/modules/LeetCode-Practice-Java.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/medium/_015_3Sum/ThreeSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/medium/_015_3Sum/ThreeSumTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.4/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.4/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.4/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.4/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.4/taskHistory/taskHistory.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.4/taskHistory/taskHistory.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/LeetCode-Practice-Java_test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/LeetCode-Practice-Java_test.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/META-INF/LeetCode-Practice-Java_main.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/META-INF/LeetCode-Practice-Java_main.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/medium/_12_Integer_to_Roman/IntegerToRoman.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/medium/_012_Integer_to_Roman/IntegerToRoman.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/medium/_12_Integer_to_Roman/IntegerToRomanTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/medium/_012_Integer_to_Roman/IntegerToRomanTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
-    <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/LeetCode_Practice_Java$RomanToIntegerTest.ic" NAME="RomanToIntegerTest Coverage Results" MODIFIED="1540123850551" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
-      <FILTER>easy._013_Roman_To_Integer.*</FILTER>
-    </SUITE>
   </component>
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
@@ -30,38 +42,43 @@
     <session id="-576422895">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="7" />
+          <entry key="project.closed" value="8" />
           <entry key="project.open.time.12" value="2" />
           <entry key="project.open.time.13" value="1" />
           <entry key="project.open.time.15" value="1" />
           <entry key="project.open.time.16" value="1" />
           <entry key="project.open.time.17" value="1" />
           <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.23" value="1" />
           <entry key="project.open.time.30" value="1" />
           <entry key="project.open.time.7" value="1" />
-          <entry key="project.opened" value="9" />
+          <entry key="project.opened" value="10" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="2225" />
-          <entry key="txt" value="28" />
+          <entry key="java" value="2377" />
+          <entry key="txt" value="29" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="2225" />
-          <entry key="PLAIN_TEXT" value="28" />
+          <entry key="JAVA" value="2377" />
+          <entry key="PLAIN_TEXT" value="29" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="16" />
+          <entry key="gradle" value="1" />
+          <entry key="java" value="24" />
+          <entry key="md" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="16" />
+          <entry key="Groovy" value="1" />
+          <entry key="JAVA" value="24" />
+          <entry key="Markdown" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.vcs.git.usages">
@@ -74,93 +91,26 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="ContainerWithMostWater.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/medium/_011_Container_With_Most_Water/ContainerWithMostWater.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/medium/_015_3Sum/ThreeSumTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1102">
-              <caret line="60" column="13" selection-start-line="60" selection-start-column="13" selection-end-line="60" selection-end-column="13" />
+            <state relative-caret-position="114">
+              <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/medium/_015_3Sum/ThreeSum.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="28" column="41" lean-forward="true" selection-start-line="28" selection-start-column="12" selection-end-line="28" selection-end-column="41" />
               <folding>
-                <element signature="e#949#950#0" expanded="true" />
-                <element signature="e#973#974#0" expanded="true" />
+                <element signature="e#769#770#0" expanded="true" />
+                <element signature="e#796#797#0" expanded="true" />
               </folding>
             </state>
           </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="IntegerToRoman.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/medium/_12_Integer_to_Roman/IntegerToRoman.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3344">
-              <caret line="178" column="7" selection-start-line="178" selection-start-column="7" selection-end-line="178" selection-end-column="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="RomanToInteger.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/easy/_013_Roman_To_Integer/RomanToInteger.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="348">
-              <caret line="104" column="49" selection-start-line="104" selection-start-column="49" selection-end-line="104" selection-end-column="49" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="LongestCommonPrefix.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/easy/_014_Longest_Common_Prefix/LongestCommonPrefix.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-133">
-              <caret line="50" column="15" selection-start-line="50" selection-start-column="15" selection-end-line="50" selection-end-column="15" />
-              <folding>
-                <element signature="e#839#840#0" expanded="true" />
-                <element signature="e#863#864#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="LongestCommonPrefixTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/easy/_014_Longest_Common_Prefix/LongestCommonPrefixTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="304">
-              <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
-              <folding>
-                <element signature="e#353#354#0" expanded="true" />
-                <element signature="e#383#384#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="RomanToIntegerTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/easy/_013_Roman_To_Integer/RomanToIntegerTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="152">
-              <caret line="10" column="21" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="IntegerToRomanTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/medium/_12_Integer_to_Roman/IntegerToRomanTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="266">
-              <caret line="16" column="39" selection-start-line="7" selection-start-column="4" selection-end-line="16" selection-end-column="39" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ContainerWithMostWaterTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/medium/_011_Container_With_Most_Water/ContainerWithMostWaterTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="266">
-              <caret line="18" column="9" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="question_11.jpg" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/medium/_011_Container_With_Most_Water/question_11.jpg">
-          <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
     </leaf>
@@ -168,19 +118,33 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="package-info" />
         <option value="Class" />
         <option value="JUnit4 Test Class" />
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>place</find>
+    </findStrings>
+    <dirStrings>
+      <dir>D:\idea_project_place</dir>
+    </dirStrings>
+  </component>
   <component name="Git.Settings">
     <option name="UPDATE_TYPE" value="MERGE" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="develop" />
+      </map>
+    </option>
   </component>
   <component name="GradleLocalSettings">
     <option name="myGradleHomes">
       <map>
-        <entry key="$PROJECT_DIR$" value="C:\Users\Administrator\.gradle\wrapper\dists\gradle-4.4-bin\bgaq7vklkazwgxox0hdadxbvi\gradle-4.4" />
+        <entry key="$PROJECT_DIR$" value="C:\Users\Administrator\.gradle\wrapper\dists\gradle-4.4-all\9br9xq1tocpiv8o6njlyu5op1\gradle-4.4" />
       </map>
     </option>
     <option name="myGradleVersions">
@@ -214,24 +178,19 @@
           <value>
             <list>
               <ExternalTaskPojo>
+                <option name="description" value="Initializes a new Gradle build." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="init" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
                 <option name="description" value="Displays the components produced by root project 'LeetCode-Practice-Java'. [incubating]" />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="components" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Assembles and tests this project and all projects that depend on it." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="buildDependents" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
                 <option name="description" value="Displays the sub-projects of root project 'LeetCode-Practice-Java'." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="projects" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Assembles main classes." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="classes" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="description" value="Displays the dependent components of components in root project 'LeetCode-Practice-Java'. [incubating]" />
@@ -244,79 +203,14 @@
                 <option name="name" value="buildEnvironment" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Generates Gradle wrapper files." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="wrapper" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Assembles test classes." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="testClasses" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Generates Javadoc API documentation for the main source code." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="javadoc" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Assembles a jar archive containing the main classes." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="jar" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Displays the configuration model of root project 'LeetCode-Practice-Java'. [incubating]" />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="model" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Processes main resources." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="processResources" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Displays the tasks runnable from root project 'LeetCode-Practice-Java'." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="tasks" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Initializes a new Gradle build." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="init" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Runs the unit tests." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="test" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Compiles main Java source." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="compileJava" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
                 <option name="description" value="Displays the insight into a specific dependency in root project 'LeetCode-Practice-Java'." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="dependencyInsight" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Runs all checks." />
+                <option name="description" value="Generates Gradle wrapper files." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="check" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Assembles the outputs of this project." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="assemble" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Deletes the build directory." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="clean" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Compiles test Java source." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="compileTestJava" />
+                <option name="name" value="wrapper" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="description" value="Displays all dependencies declared in root project 'LeetCode-Practice-Java'." />
@@ -324,29 +218,24 @@
                 <option name="name" value="dependencies" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Processes test resources." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="processTestResources" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
                 <option name="description" value="Displays a help message." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="help" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Assembles and tests this project." />
+                <option name="description" value="Displays the configuration model of root project 'LeetCode-Practice-Java'. [incubating]" />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="build" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Assembles and tests this project and all projects it depends on." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="buildNeeded" />
+                <option name="name" value="model" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="description" value="Displays the properties of root project 'LeetCode-Practice-Java'." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="properties" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the tasks runnable from root project 'LeetCode-Practice-Java'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="tasks" />
               </ExternalTaskPojo>
             </list>
           </value>
@@ -355,7 +244,7 @@
     </option>
     <option name="modificationStamps">
       <map>
-        <entry key="$PROJECT_DIR$" value="6151904394476" />
+        <entry key="$PROJECT_DIR$" value="3079257000252" />
         <entry key="$PROJECT_DIR$/.gradle" value="0" />
         <entry key="$PROJECT_DIR$/build.gradle" value="2928237778" />
         <entry key="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" value="2083459160" />
@@ -524,8 +413,6 @@
                   <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/lib/plugins/gradle-version-control-4.4.jar" />
                   <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/lib/plugins/gradle-workers-4.4.jar" />
                   <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/lib/plugins/ivy-2.2.0.jar" />
-                  <option value="$PROJECT_DIR$/buildSrc/src/main/java" />
-                  <option value="$PROJECT_DIR$/buildSrc/src/main/groovy" />
                 </list>
               </option>
             </ExternalProjectBuildClasspathPojo>
@@ -561,15 +448,16 @@
         <option value="$PROJECT_DIR$/src/test/java/hard/_004_Median_of_Two_Sorted_Arrays/MedianOfTwoSortedArraysTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/medium/_005_Longest_Palindromic_Substring/LongestPalindromicSubstring.java" />
         <option value="$PROJECT_DIR$/src/test/java/medium/_005_Longest_Palindromic_Substring/LongestPalindromicSubstringTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/easy/_011_Container_With_Most_Water/ContainerWithMostWater.java" />
-        <option value="$PROJECT_DIR$/src/test/java/medium/_011_Container_With_Most_Water/ContainerWithMostWaterTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/medium/_011_Container_With_Most_Water/ContainerWithMostWater.java" />
-        <option value="$PROJECT_DIR$/src/test/java/medium/_12_Integer_to_Roman/IntegerToRomanTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/medium/_12_Integer_to_Roman/IntegerToRoman.java" />
-        <option value="$PROJECT_DIR$/src/test/java/easy/_013_Roman_To_Integer/RomanToIntegerTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/easy/_013_Roman_To_Integer/RomanToInteger.java" />
-        <option value="$PROJECT_DIR$/src/test/java/easy/_014_Longest_Common_Prefix/LongestCommonPrefixTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/easy/_014_Longest_Common_Prefix/LongestCommonPrefix.java" />
+        <option value="$PROJECT_DIR$/src/main/java/medium/_006_ZigZag_Conversion/ZigZagConversion.java" />
+        <option value="$PROJECT_DIR$/src/test/java/medium/_006_ZigZag_Conversion/ZigZagConversionTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/easy/_007_Reverse_Integer/ReverseIntegerTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/easy/_007_Reverse_Integer/ReverseInteger.java" />
+        <option value="$PROJECT_DIR$/src/test/java/medium/_008_String_Reverse_Integer/StringReverseIntegerTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/medium/_008_String_Reverse_Integer/StringReverseInteger.java" />
+        <option value="$PROJECT_DIR$/src/main/java/easy/_009_Palindrome_Number/PalindromeNumber.java" />
+        <option value="$PROJECT_DIR$/src/test/java/easy/_009_Palindrome_Number/PalindromeNumberTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/medium/_015_3Sum/ThreeSum.java" />
+        <option value="$PROJECT_DIR$/src/test/java/medium/_015_3Sum/ThreeSumTest.java" />
       </list>
     </option>
   </component>
@@ -578,9 +466,6 @@
   <component name="JsGulpfileManager">
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
-  </component>
-  <component name="NodePackageJsonFileManager">
-    <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-10" />
@@ -597,8 +482,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -615,67 +498,59 @@
               <item name="LeetCode-Practice-Java" type="b2602c69:ProjectViewProjectNode" />
               <item name="LeetCode-Practice-Java" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="LeetCode-Practice-Java" type="b2602c69:ProjectViewProjectNode" />
               <item name="LeetCode-Practice-Java" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="LeetCode-Practice-Java" type="b2602c69:ProjectViewProjectNode" />
               <item name="LeetCode-Practice-Java" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="easy" type="462c0819:PsiDirectoryNode" />
+              <item name="medium" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="LeetCode-Practice-Java" type="b2602c69:ProjectViewProjectNode" />
               <item name="LeetCode-Practice-Java" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="easy" type="462c0819:PsiDirectoryNode" />
-              <item name="_013_Roman_To_Integer" type="462c0819:PsiDirectoryNode" />
+              <item name="medium" type="462c0819:PsiDirectoryNode" />
+              <item name="_012_Integer_to_Roman" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="LeetCode-Practice-Java" type="b2602c69:ProjectViewProjectNode" />
               <item name="LeetCode-Practice-Java" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="easy" type="462c0819:PsiDirectoryNode" />
-              <item name="_014_Longest_Common_Prefix" type="462c0819:PsiDirectoryNode" />
+              <item name="medium" type="462c0819:PsiDirectoryNode" />
+              <item name="_015_3Sum" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="LeetCode-Practice-Java" type="b2602c69:ProjectViewProjectNode" />
               <item name="LeetCode-Practice-Java" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="structure" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="LeetCode-Practice-Java" type="b2602c69:ProjectViewProjectNode" />
               <item name="LeetCode-Practice-Java" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-            </path>
-            <path>
-              <item name="LeetCode-Practice-Java" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LeetCode-Practice-Java" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="LeetCode-Practice-Java" type="b2602c69:ProjectViewProjectNode" />
               <item name="LeetCode-Practice-Java" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="easy" type="462c0819:PsiDirectoryNode" />
             </path>
@@ -683,19 +558,70 @@
               <item name="LeetCode-Practice-Java" type="b2602c69:ProjectViewProjectNode" />
               <item name="LeetCode-Practice-Java" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="easy" type="462c0819:PsiDirectoryNode" />
-              <item name="_013_Roman_To_Integer" type="462c0819:PsiDirectoryNode" />
+              <item name="_001_Two_Sum" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="LeetCode-Practice-Java" type="58d84e3e:PackageViewProjectNode" />
+              <item name="LeetCode-Practice-Java" type="eaaa3913:PackageViewModuleGroupNode" />
             </path>
             <path>
-              <item name="LeetCode-Practice-Java" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LeetCode-Practice-Java" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="easy" type="462c0819:PsiDirectoryNode" />
-              <item name="_014_Longest_Common_Prefix" type="462c0819:PsiDirectoryNode" />
+              <item name="LeetCode-Practice-Java" type="58d84e3e:PackageViewProjectNode" />
+              <item name="LeetCode-Practice-Java" type="eaaa3913:PackageViewModuleGroupNode" />
+              <item name="LeetCode-Practice-Java_main" type="616d4139:PackageViewModuleNode" />
+            </path>
+            <path>
+              <item name="LeetCode-Practice-Java" type="58d84e3e:PackageViewProjectNode" />
+              <item name="LeetCode-Practice-Java" type="eaaa3913:PackageViewModuleGroupNode" />
+              <item name="LeetCode-Practice-Java_main" type="616d4139:PackageViewModuleNode" />
+              <item name="easy" type="1f31426a:PackageElementNode" />
+            </path>
+            <path>
+              <item name="LeetCode-Practice-Java" type="58d84e3e:PackageViewProjectNode" />
+              <item name="LeetCode-Practice-Java" type="eaaa3913:PackageViewModuleGroupNode" />
+              <item name="LeetCode-Practice-Java_main" type="616d4139:PackageViewModuleNode" />
+              <item name="easy" type="1f31426a:PackageElementNode" />
+              <item name="_001_Two_Sum" type="1f31426a:PackageElementNode" />
+            </path>
+            <path>
+              <item name="LeetCode-Practice-Java" type="58d84e3e:PackageViewProjectNode" />
+              <item name="LeetCode-Practice-Java" type="eaaa3913:PackageViewModuleGroupNode" />
+              <item name="LeetCode-Practice-Java_test" type="616d4139:PackageViewModuleNode" />
+            </path>
+            <path>
+              <item name="LeetCode-Practice-Java" type="58d84e3e:PackageViewProjectNode" />
+              <item name="LeetCode-Practice-Java" type="eaaa3913:PackageViewModuleGroupNode" />
+              <item name="LeetCode-Practice-Java_test" type="616d4139:PackageViewModuleNode" />
+              <item name="easy" type="1f31426a:PackageElementNode" />
+            </path>
+            <path>
+              <item name="LeetCode-Practice-Java" type="58d84e3e:PackageViewProjectNode" />
+              <item name="LeetCode-Practice-Java" type="eaaa3913:PackageViewModuleGroupNode" />
+              <item name="LeetCode-Practice-Java_test" type="616d4139:PackageViewModuleNode" />
+              <item name="easy" type="1f31426a:PackageElementNode" />
+              <item name="_001_Two_Sum" type="1f31426a:PackageElementNode" />
+            </path>
+            <path>
+              <item name="LeetCode-Practice-Java" type="58d84e3e:PackageViewProjectNode" />
+              <item name="LeetCode-Practice-Java" type="eaaa3913:PackageViewModuleGroupNode" />
+              <item name="LeetCode-Practice-Java_test" type="616d4139:PackageViewModuleNode" />
+              <item name="hard" type="1f31426a:PackageElementNode" />
+            </path>
+            <path>
+              <item name="LeetCode-Practice-Java" type="58d84e3e:PackageViewProjectNode" />
+              <item name="LeetCode-Practice-Java" type="eaaa3913:PackageViewModuleGroupNode" />
+              <item name="LeetCode-Practice-Java_test" type="616d4139:PackageViewModuleNode" />
+              <item name="hard" type="1f31426a:PackageElementNode" />
+              <item name="_004_Median_of_Two_Sorted_Arrays" type="1f31426a:PackageElementNode" />
             </path>
           </expand>
           <select />
@@ -705,12 +631,15 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1539827865480" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540273667895" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Project" />
@@ -720,14 +649,13 @@
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
-      <recent name="easy._014_Longest_Common_Prefix" />
-      <recent name="easy._013_Roman_To_Integer" />
-      <recent name="medium._12_Integer_to_Roman" />
-      <recent name="medium._011_Container_With_Most_Water" />
+      <recent name="medium._015_3Sum" />
+      <recent name="easy._009_Palindrome_Number" />
       <recent name="medium._008_String_Reverse_Integer" />
+      <recent name="easy._007_Reverse_Integer" />
+      <recent name="medium._006_ZigZag_Conversion" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="I:\Idea_code\LeetCode-Practice-Java\src\main\java\easy\_011_Container_With_Most_Water" />
       <recent name="D:\idea_project_place\LeetCode-Practice-Java\src\main\java\medium" />
       <recent name="I:\Idea_code\LeetCode-Practice-Java\src\main\java" />
     </key>
@@ -741,6 +669,131 @@
       <recent name="I:\Idea_code\LeetCode-Practice-Java" />
     </key>
   </component>
+  <component name="RestoreUpdateTree" date="Moments ago" ActionInfo="_Update">
+    <UpdatedFiles>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Updated from server" />
+        <option name="myStatusName" value="Changed on server" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="CHANGED_ON_SERVER" />
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Updated" />
+          <option name="myStatusName" value="Changed" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="UPDATED" />
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/.idea/gradle.xml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/.idea/modules/LeetCode-Practice-Java_test.iml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/.idea/workspace.xml</PATH>
+        </FILE-GROUP>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Created" />
+          <option name="myStatusName" value="Created" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="CREATED" />
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/out/production/classes/META-INF/LeetCode-Practice-Java_main.kotlin_module</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/out/test/classes/META-INF/LeetCode-Practice-Java_main.kotlin_module</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/main/java/easy/_013_Roman_To_Integer/RomanToInteger.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/main/java/easy/_014_Longest_Common_Prefix/LongestCommonPrefix.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/main/java/medium/_011_Container_With_Most_Water/ContainerWithMostWater.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/main/java/medium/_011_Container_With_Most_Water/question_11.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/main/java/medium/_12_Integer_to_Roman/IntegerToRoman.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/test/java/easy/_013_Roman_To_Integer/RomanToIntegerTest.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/test/java/easy/_014_Longest_Common_Prefix/LongestCommonPrefixTest.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/test/java/medium/_011_Container_With_Most_Water/ContainerWithMostWaterTest.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/test/java/medium/_12_Integer_to_Roman/IntegerToRomanTest.java</PATH>
+        </FILE-GROUP>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Deleted" />
+          <option name="myStatusName" value="Deleted" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="true" />
+          <option name="myId" value="REMOVED_FROM_REPOSITORY" />
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/.idea/libraries/Gradle__junit_junit_4_12.xml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/.idea/libraries/Gradle__org_hamcrest_hamcrest_core_1_3.xml</PATH>
+        </FILE-GROUP>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Restored" />
+          <option name="myStatusName" value="Will be restored" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="RESTORED" />
+        </FILE-GROUP>
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Modified" />
+        <option name="myStatusName" value="Modified" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MODIFIED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Skipped" />
+        <option name="myStatusName" value="Skipped" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="SKIPPED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged with conflicts" />
+        <option name="myStatusName" value="Will be merged with conflicts" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED_WITH_CONFLICTS" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged with tree conflicts" />
+        <option name="myStatusName" value="Merged with tree conflicts" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED_WITH_TREE_CONFLICT" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged with property conflicts" />
+        <option name="myStatusName" value="Will be merged with property conflicts" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED_WITH_PROPERTY_CONFLICT" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged" />
+        <option name="myStatusName" value="Will be merged" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Not in repository" />
+        <option name="myStatusName" value="Not in repository" />
+        <option name="mySupportsDeletion" value="true" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="UNKNOWN" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Locally added" />
+        <option name="myStatusName" value="Locally added" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="LOCALLY_ADDED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Locally removed" />
+        <option name="myStatusName" value="Locally removed" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="LOCALLY_REMOVED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Switched" />
+        <option name="myStatusName" value="Switched" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="SWITCHED" />
+      </FILE-GROUP>
+    </UpdatedFiles>
+  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -753,177 +806,116 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.LongestCommonPrefixTest">
+  <component name="RunManager" selected="JUnit.TwoSumTest">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
-    <configuration name="ContainerWithMostWaterTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="PalindromeNumberTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="LeetCode-Practice-Java_test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="medium._011_Container_With_Most_Water.*" />
+          <option name="PATTERN" value="easy._009_Palindrome_Number.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="medium._011_Container_With_Most_Water" />
-      <option name="MAIN_CLASS_NAME" value="medium._011_Container_With_Most_Water.ContainerWithMostWaterTest" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
+      <option name="PACKAGE_NAME" value="easy._009_Palindrome_Number" />
+      <option name="MAIN_CLASS_NAME" value="easy._009_Palindrome_Number.PalindromeNumberTest" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
-    <configuration name="IntegerToRomanTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="ReverseIntegerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="LeetCode-Practice-Java_test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="medium._12_Integer_to_Roman.*" />
+          <option name="PATTERN" value="easy._007_Reverse_Integer.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="medium._12_Integer_to_Roman" />
-      <option name="MAIN_CLASS_NAME" value="medium._12_Integer_to_Roman.IntegerToRomanTest" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
+      <option name="PACKAGE_NAME" value="easy._007_Reverse_Integer" />
+      <option name="MAIN_CLASS_NAME" value="easy._007_Reverse_Integer.ReverseIntegerTest" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
-    <configuration name="LongestCommonPrefixTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="StringReverseIntegerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="LeetCode-Practice-Java_test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="easy._014_Longest_Common_Prefix.*" />
+          <option name="PATTERN" value="medium._008_String_Reverse_Integer.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="easy._014_Longest_Common_Prefix" />
-      <option name="MAIN_CLASS_NAME" value="easy._014_Longest_Common_Prefix.LongestCommonPrefixTest" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
+      <option name="PACKAGE_NAME" value="medium._008_String_Reverse_Integer" />
+      <option name="MAIN_CLASS_NAME" value="medium._008_String_Reverse_Integer.StringReverseIntegerTest" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
-    <configuration name="MedianOfTwoSortedArraysTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="TwoSumTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="LeetCode-Practice-Java_test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="hard._004_Median_of_Two_Sorted_Arrays.*" />
+          <option name="PATTERN" value="easy._001_Two_Sum.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="hard._004_Median_of_Two_Sorted_Arrays" />
-      <option name="MAIN_CLASS_NAME" value="hard._004_Median_of_Two_Sorted_Arrays.MedianOfTwoSortedArraysTest" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
+      <option name="PACKAGE_NAME" value="easy._001_Two_Sum" />
+      <option name="MAIN_CLASS_NAME" value="easy._001_Two_Sum.TwoSumTest" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
-    <configuration name="RomanToIntegerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="ZigZagConversionTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="LeetCode-Practice-Java_test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="easy._013_Roman_To_Integer.*" />
+          <option name="PATTERN" value="medium._006_ZigZag_Conversion.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="easy._013_Roman_To_Integer" />
-      <option name="MAIN_CLASS_NAME" value="easy._013_Roman_To_Integer.RomanToIntegerTest" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
+      <option name="PACKAGE_NAME" value="medium._006_ZigZag_Conversion" />
+      <option name="MAIN_CLASS_NAME" value="medium._006_ZigZag_Conversion.ZigZagConversionTest" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="SUITE_NAME" />
-      <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
-      <option name="GROUP_NAME" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="OUTPUT_DIRECTORY" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <option name="USE_DEFAULT_REPORTERS" value="false" />
-      <option name="PROPERTIES_FILE" />
       <properties />
       <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <list>
-      <item itemvalue="JUnit.MedianOfTwoSortedArraysTest" />
-      <item itemvalue="JUnit.ContainerWithMostWaterTest" />
-      <item itemvalue="JUnit.IntegerToRomanTest" />
-      <item itemvalue="JUnit.RomanToIntegerTest" />
-      <item itemvalue="JUnit.LongestCommonPrefixTest" />
+      <item itemvalue="JUnit.ZigZagConversionTest" />
+      <item itemvalue="JUnit.ReverseIntegerTest" />
+      <item itemvalue="JUnit.StringReverseIntegerTest" />
+      <item itemvalue="JUnit.PalindromeNumberTest" />
+      <item itemvalue="JUnit.TwoSumTest" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.LongestCommonPrefixTest" />
-        <item itemvalue="JUnit.RomanToIntegerTest" />
-        <item itemvalue="JUnit.IntegerToRomanTest" />
-        <item itemvalue="JUnit.ContainerWithMostWaterTest" />
-        <item itemvalue="JUnit.MedianOfTwoSortedArraysTest" />
+        <item itemvalue="JUnit.TwoSumTest" />
+        <item itemvalue="JUnit.PalindromeNumberTest" />
+        <item itemvalue="JUnit.StringReverseIntegerTest" />
+        <item itemvalue="JUnit.ReverseIntegerTest" />
+        <item itemvalue="JUnit.ZigZagConversionTest" />
       </list>
     </recent_temporary>
   </component>
@@ -938,10 +930,16 @@
       <option name="presentableId" value="Default" />
       <updated>1537975859116</updated>
       <workItem from="1537975862890" duration="42993000" />
-      <workItem from="1539963204430" duration="2184000" />
-      <workItem from="1540025621760" duration="3868000" />
-      <workItem from="1540119369388" duration="3880000" />
-      <workItem from="1540132729119" duration="5027000" />
+      <workItem from="1538989181555" duration="821000" />
+      <workItem from="1538990058606" duration="585000" />
+      <workItem from="1538990675006" duration="111000" />
+      <workItem from="1538990791912" duration="3295000" />
+      <workItem from="1539075132793" duration="2000" />
+      <workItem from="1539566894648" duration="5565000" />
+      <workItem from="1539740208686" duration="3833000" />
+      <workItem from="1539744513674" duration="39000" />
+      <workItem from="1539825786910" duration="2575000" />
+      <workItem from="1540266335308" duration="4031000" />
     </task>
     <task id="LOCAL-00001" summary="Commit Two Sum Solution">
       <created>1538122350955</created>
@@ -978,100 +976,99 @@
       <option name="project" value="LOCAL" />
       <updated>1538853725846</updated>
     </task>
-    <task id="LOCAL-00006" summary="Commit 011 Container With MostWater">
-      <created>1539965411388</created>
+    <task id="LOCAL-00006" summary="Commit 006 ZigZag Conversion">
+      <created>1539570133557</created>
       <option name="number" value="00006" />
       <option name="presentableId" value="LOCAL-00006" />
       <option name="project" value="LOCAL" />
-      <updated>1539965411388</updated>
+      <updated>1539570133557</updated>
     </task>
-    <task id="LOCAL-00007" summary="Commit 012 Integer to Roman">
-      <created>1540029477349</created>
+    <task id="LOCAL-00007" summary="Commit 007 Reverse Integer">
+      <created>1539658008999</created>
       <option name="number" value="00007" />
       <option name="presentableId" value="LOCAL-00007" />
       <option name="project" value="LOCAL" />
-      <updated>1540029477349</updated>
+      <updated>1539658008999</updated>
     </task>
-    <task id="LOCAL-00008" summary="Commit 013 Roman to Integer">
-      <created>1540123892626</created>
+    <task id="LOCAL-00008" summary="Commit 009 Palindrome Number">
+      <created>1539827903387</created>
       <option name="number" value="00008" />
       <option name="presentableId" value="LOCAL-00008" />
       <option name="project" value="LOCAL" />
-      <updated>1540123892626</updated>
+      <updated>1539827903387</updated>
     </task>
     <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="RomanToIntegerTest - 2018.10.21 at 19h 57m 14s.xml">
-      <configuration name="RomanToIntegerTest" configurationId="JUnit" />
+    <history-entry file="ReverseIntegerTest - 2018.10.17 at 10h 21m 51s.xml">
+      <configuration name="ReverseIntegerTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="RomanToIntegerTest - 2018.10.21 at 19h 57m 54s.xml">
-      <configuration name="RomanToIntegerTest" configurationId="JUnit" />
+    <history-entry file="ReverseIntegerTest - 2018.10.17 at 10h 32m 33s.xml">
+      <configuration name="ReverseIntegerTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="RomanToIntegerTest - 2018.10.21 at 19h 58m 10s.xml">
-      <configuration name="RomanToIntegerTest" configurationId="JUnit" />
+    <history-entry file="StringReverseIntegerTest - 2018.10.17 at 10h 35m 02s.xml">
+      <configuration name="StringReverseIntegerTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="RomanToIntegerTest - 2018.10.21 at 20h 06m 39s.xml">
-      <configuration name="RomanToIntegerTest" configurationId="JUnit" />
+    <history-entry file="StringReverseIntegerTest - 2018.10.17 at 10h 35m 28s.xml">
+      <configuration name="StringReverseIntegerTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="RomanToIntegerTest - 2018.10.21 at 20h 10m 51s.xml">
-      <configuration name="RomanToIntegerTest" configurationId="JUnit" />
+    <history-entry file="StringReverseIntegerTest - 2018.10.17 at 10h 36m 56s.xml">
+      <configuration name="StringReverseIntegerTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="LongestCommonPrefixTest - 2018.10.22 at 14h 21m 14s.xml">
-      <configuration name="LongestCommonPrefixTest" configurationId="JUnit" />
+    <history-entry file="StringReverseIntegerTest - 2018.10.17 at 10h 38m 16s.xml">
+      <configuration name="StringReverseIntegerTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="LongestCommonPrefixTest - 2018.10.22 at 14h 24m 00s.xml">
-      <configuration name="LongestCommonPrefixTest" configurationId="JUnit" />
+    <history-entry file="PalindromeNumberTest - 2018.10.18 at 09h 57m 53s.xml">
+      <configuration name="PalindromeNumberTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="LongestCommonPrefixTest - 2018.10.22 at 14h 24m 48s.xml">
-      <configuration name="LongestCommonPrefixTest" configurationId="JUnit" />
+    <history-entry file="TwoSumTest - 2018.10.23 at 12h 02m 16s.xml">
+      <configuration name="TwoSumTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="LongestCommonPrefixTest - 2018.10.22 at 14h 25m 20s.xml">
-      <configuration name="LongestCommonPrefixTest" configurationId="JUnit" />
+    <history-entry file="TwoSumTest - 2018.10.23 at 12h 02m 56s.xml">
+      <configuration name="TwoSumTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="LongestCommonPrefixTest - 2018.10.22 at 14h 26m 14s.xml">
-      <configuration name="LongestCommonPrefixTest" configurationId="JUnit" />
+    <history-entry file="TwoSumTest - 2018.10.23 at 12h 11m 02s.xml">
+      <configuration name="TwoSumTest" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="58116000" />
+    <option name="totallyTimeSpent" value="63995000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" order="7" weight="0.32952926" />
-      <window_info anchor="right" id="Palette&#9;" order="3" />
-      <window_info id="Image Layers" order="2" />
-      <window_info anchor="right" id="Capture Analysis" order="3" />
-      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info anchor="right" id="Maven Projects" order="3" />
-      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="7" weight="0.32952926" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32952926" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32952926" />
-      <window_info id="Capture Tool" order="2" />
-      <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26675603" />
-      <window_info anchor="right" id="Database" order="3" />
-      <window_info anchor="right" id="Gradle" order="3" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.283419" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info id="UI Designer" order="2" />
-      <window_info anchor="right" id="Theme Preview" order="3" />
-      <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39942938" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Build" order="7" weight="0.3281027" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info id="Capture Tool" order="6" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="right" id="Coverage" order="4" side_tool="true" weight="0.3297587" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32884097" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39892185" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Build" order="7" weight="0.32749325" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32884097" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32952926" />
+      <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="12" weight="0.32884097" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Maven Projects" order="5" />
+      <window_info anchor="right" id="Gradle" order="6" />
+      <window_info anchor="right" id="Database" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Theme Preview" order="9" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -1087,74 +1084,12 @@
     <MESSAGE value="Commit Longest Substring Without Repeating Characters" />
     <MESSAGE value="Commit 004 Median of Two Sorted Arrays" />
     <MESSAGE value="Commit 005 Longest Palindromic Substring" />
-    <MESSAGE value="Commit 011" />
-    <MESSAGE value="Commit 011 Container With MostWater" />
-    <MESSAGE value="Commit 012 Integer to Roman" />
-    <MESSAGE value="Commit 013 Roman to Integer" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit 013 Roman to Integer" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <option name="time" value="6" />
-    </breakpoint-manager>
+    <MESSAGE value="Commit 006 ZigZag Conversion" />
+    <MESSAGE value="Commit 007 Reverse Integer" />
+    <MESSAGE value="Commit 009 Palindrome Number" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit 009 Palindrome Number" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/easy/_001_Two_Sum/TwoSum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="15" column="11" lean-forward="true" selection-start-line="15" selection-start-column="11" selection-end-line="15" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/medium/_003_Longest_Substring_Without_Repeating_Characters/LongestSubstringWithoutRepeatingCharacters.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="24" column="3" lean-forward="true" selection-start-line="24" selection-start-column="3" selection-end-line="24" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/junit/junit/4.12/a6c32b40bf3d76eca54e3c601e5d1470c86fcdfa/junit-4.12-sources.jar!/org/junit/Assert.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="179">
-          <caret line="679" column="24" lean-forward="true" selection-start-line="677" selection-start-column="20" selection-end-line="679" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/hard/_004_Median_of_Two_Sorted_Arrays/MedianOfTwoSortedArraysTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="16" column="39" selection-start-line="16" selection-start-column="39" selection-end-line="16" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/hard/_004_Median_of_Two_Sorted_Arrays/MedianOfTwoSortedArrays.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="217">
-          <caret line="40" column="36" selection-start-line="40" selection-start-column="13" selection-end-line="40" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/medium/_005_Longest_Palindromic_Substring/LongestPalindromicSubstring.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="290">
-          <caret line="29" column="40" selection-start-line="29" selection-start-column="13" selection-end-line="29" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/medium/_005_Longest_Palindromic_Substring/LongestPalindromicSubstringTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="16" column="89" selection-start-line="16" selection-start-column="89" selection-end-line="16" selection-end-column="89" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="12" column="12" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/structure/TreeNode.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -1169,16 +1104,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/easy/_001_TWO_SUM/Solution.md" />
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="399">
-            <caret line="21" column="17" selection-start-line="21" selection-start-column="17" selection-end-line="21" selection-end-column="17" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://I:/Jdk8/src.zip!/java/lang/StringBuffer.java" />
     <entry file="jar://I:/Jdk8/src.zip!/java/lang/Object.java" />
     <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/junit/junit/4.12/a6c32b40bf3d76eca54e3c601e5d1470c86fcdfa/junit-4.12-sources.jar!/org/junit/runners/BlockJUnit4ClassRunner.java">
@@ -1213,13 +1138,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="439">
           <caret line="61" selection-start-line="61" selection-end-line="61" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/easy/_001_Two_Sum/TwoSumTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="18" column="5" lean-forward="true" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
         </state>
       </provider>
     </entry>
@@ -1265,13 +1183,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/hard/_004_Median_of_Two_Sorted_Arrays/MedianOfTwoSortedArraysTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="16" column="39" selection-start-line="16" selection-start-column="39" selection-end-line="16" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/medium/_006_ZigZag_Conversion/ZigZagConversionTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
@@ -1293,7 +1204,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/lang/Integer.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/lang/Integer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="56" column="38" selection-start-line="56" selection-start-column="38" selection-end-line="56" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/easy/_007_Reverse_Integer/ReverseInteger.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="855">
@@ -1317,8 +1234,12 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/hard/_004_Median_of_Two_Sorted_Arrays/MedianOfTwoSortedArrays.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="760">
-          <caret line="40" column="36" selection-start-line="40" selection-start-column="13" selection-end-line="40" selection-end-column="36" />
+        <state relative-caret-position="225">
+          <caret line="53" column="35" selection-start-line="53" selection-start-column="35" selection-end-line="53" selection-end-column="35" />
+          <folding>
+            <element signature="e#881#882#0" expanded="true" />
+            <element signature="e#905#906#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1326,91 +1247,87 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="551">
           <caret line="29" column="40" selection-start-line="29" selection-start-column="13" selection-end-line="29" selection-end-column="40" />
+          <folding>
+            <element signature="e#602#603#0" expanded="true" />
+            <element signature="e#627#628#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/medium/_005_Longest_Palindromic_Substring/LongestPalindromicSubstringTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="22" column="5" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
+        <state relative-caret-position="361">
+          <caret line="21" column="45" selection-start-line="21" selection-start-column="45" selection-end-line="21" selection-end-column="45" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/easy/package-info.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/easy/_009_Palindrome_Number/PalindromeNumber.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="33" column="8" lean-forward="true" selection-start-line="33" selection-start-column="8" selection-end-line="33" selection-end-column="8" />
+        <state relative-caret-position="741">
+          <caret line="39" column="31" selection-start-line="39" selection-start-column="31" selection-end-line="39" selection-end-column="31" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/medium/_011_Container_With_Most_Water/question_11.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/medium/_011_Container_With_Most_Water/ContainerWithMostWaterTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="18" column="9" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/medium/_011_Container_With_Most_Water/ContainerWithMostWater.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1102">
-          <caret line="60" column="13" selection-start-line="60" selection-start-column="13" selection-end-line="60" selection-end-column="13" />
-          <folding>
-            <element signature="e#949#950#0" expanded="true" />
-            <element signature="e#973#974#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/medium/_12_Integer_to_Roman/IntegerToRoman.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3344">
-          <caret line="178" column="7" selection-start-line="178" selection-start-column="7" selection-end-line="178" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/medium/_12_Integer_to_Roman/IntegerToRomanTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="16" column="39" selection-start-line="7" selection-start-column="4" selection-end-line="16" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/easy/_013_Roman_To_Integer/RomanToIntegerTest.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/hard/_004_Median_of_Two_Sorted_Arrays/MedianOfTwoSortedArraysTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="152">
-          <caret line="10" column="21" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
+          <caret line="10" column="9" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/easy/_013_Roman_To_Integer/RomanToInteger.java">
+    <entry file="file://$PROJECT_DIR$/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="348">
-          <caret line="104" column="49" selection-start-line="104" selection-start-column="49" selection-end-line="104" selection-end-column="49" />
+        <state relative-caret-position="228">
+          <caret line="12" column="10" selection-start-line="12" selection-start-column="10" selection-end-line="12" selection-end-column="10" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/easy/_014_Longest_Common_Prefix/LongestCommonPrefixTest.java">
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="399">
+            <caret line="21" column="17" selection-start-line="21" selection-start-column="17" selection-end-line="21" selection-end-column="17" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/easy/_009_Palindrome_Number/PalindromeNumberTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        <state relative-caret-position="247">
+          <caret line="15" column="9" lean-forward="true" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/easy/_001_Two_Sum/TwoSumTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="20" column="9" lean-forward="true" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/medium/_012_Integer_to_Roman/IntegerToRoman.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-161">
+          <caret line="91" column="13" selection-start-line="91" selection-start-column="13" selection-end-line="91" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/medium/_015_3Sum/ThreeSumTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/medium/_015_3Sum/ThreeSum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="28" column="41" lean-forward="true" selection-start-line="28" selection-start-column="12" selection-end-line="28" selection-end-column="41" />
           <folding>
-            <element signature="e#353#354#0" expanded="true" />
-            <element signature="e#383#384#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/easy/_014_Longest_Common_Prefix/LongestCommonPrefix.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-133">
-          <caret line="50" column="15" selection-start-line="50" selection-start-column="15" selection-end-line="50" selection-end-column="15" />
-          <folding>
-            <element signature="e#839#840#0" expanded="true" />
-            <element signature="e#863#864#0" expanded="true" />
+            <element signature="e#769#770#0" expanded="true" />
+            <element signature="e#796#797#0" expanded="true" />
           </folding>
         </state>
       </provider>

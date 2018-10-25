@@ -15,7 +15,7 @@ public class ThreeSumClosestTest {
 
     @Test
     public void myThreeSumClosest() {
-        assertEquals(new ThreeSumClosest().myThreeSumClosest(input,tartgetinput),output);
+        assertEquals(new ThreeSumClosest().myThreeSumClosest(input, tartgetinput), output);
     }
 
     @Test

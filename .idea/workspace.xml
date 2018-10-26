@@ -1,12 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="eae7e682-7bf6-43cd-91a5-194a9cab4d34" name="Default" comment="Commit 0016 3Sum Closest">
-      <change afterPath="$PROJECT_DIR$/src/main/java/medium/_017_Letter_Combinations_Of_A_Phone_Number/LetterCombinationsOfAPhoneNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/medium/_017_Letter_Combinations_Of_A_Phone_Number/problem-17.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/medium/_017_Letter_Combinations_Of_A_Phone_Number/LetterCombinationsOfAPhoneNumberTest.java" afterDir="false" />
+    <list default="true" id="eae7e682-7bf6-43cd-91a5-194a9cab4d34" name="Default" comment="Commit 017 Letter Combinations of a Phone Number">
+      <change afterPath="$PROJECT_DIR$/src/main/java/medium/_018_4Sum/FourSum.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/medium/_016_3Sum_Closest/ThreeSumClosestTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/medium/_016_3Sum_Closest/ThreeSumClosestTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -26,7 +23,7 @@
     <session id="-576422895">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="10" />
+          <entry key="project.closed" value="11" />
           <entry key="project.open.time.12" value="2" />
           <entry key="project.open.time.13" value="1" />
           <entry key="project.open.time.15" value="1" />
@@ -35,35 +32,36 @@
           <entry key="project.open.time.2" value="1" />
           <entry key="project.open.time.20" value="1" />
           <entry key="project.open.time.23" value="1" />
+          <entry key="project.open.time.25" value="1" />
           <entry key="project.open.time.30" value="1" />
           <entry key="project.open.time.7" value="1" />
-          <entry key="project.opened" value="12" />
+          <entry key="project.opened" value="13" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="2" />
-          <entry key="java" value="3846" />
-          <entry key="txt" value="71" />
+          <entry key="java" value="3941" />
+          <entry key="txt" value="79" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="3846" />
-          <entry key="PLAIN_TEXT" value="73" />
+          <entry key="JAVA" value="3941" />
+          <entry key="PLAIN_TEXT" value="81" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="gradle" value="1" />
-          <entry key="java" value="29" />
+          <entry key="java" value="30" />
           <entry key="md" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="Groovy" value="1" />
-          <entry key="JAVA" value="29" />
+          <entry key="JAVA" value="30" />
           <entry key="Markdown" value="1" />
         </counts>
       </usages-collector>
@@ -80,17 +78,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/medium/_016_3Sum_Closest/ThreeSumClosest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="578">
-              <caret line="51" column="22" lean-forward="true" selection-start-line="34" selection-start-column="8" selection-end-line="51" selection-end-column="22" />
+            <state relative-caret-position="931">
+              <caret line="51" column="22" selection-start-line="34" selection-start-column="8" selection-end-line="51" selection-end-column="22" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/medium/_017_Letter_Combinations_Of_A_Phone_Number/LetterCombinationsOfAPhoneNumber.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="92">
-              <caret line="29" column="36" lean-forward="true" selection-start-line="29" selection-start-column="36" selection-end-line="29" selection-end-column="36" />
+            <state relative-caret-position="456">
+              <caret line="24" column="6" selection-start-line="24" selection-start-column="6" selection-end-line="24" selection-end-column="6" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#956#957#0" expanded="true" />
@@ -100,11 +98,25 @@
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/medium/_018_4Sum/FourSum.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1172">
+              <caret line="89" column="25" lean-forward="true" selection-start-line="89" selection-start-column="25" selection-end-line="89" selection-end-column="25" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#959#960#0" expanded="true" />
+                <element signature="e#985#986#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/medium/_017_Letter_Combinations_Of_A_Phone_Number/LetterCombinationsOfAPhoneNumberTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="171">
-              <caret line="15" column="38" lean-forward="true" selection-start-line="15" selection-start-column="38" selection-end-line="15" selection-end-column="38" />
+              <caret line="15" column="38" selection-start-line="15" selection-start-column="38" selection-end-line="15" selection-end-column="38" />
             </state>
           </provider>
         </entry>
@@ -133,8 +145,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="package-info" />
-        <option value="Class" />
         <option value="JUnit4 Test Class" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -476,6 +488,7 @@
         <option value="$PROJECT_DIR$/src/test/java/medium/_016_3Sum_Closest/ThreeSumClosestTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/medium/_017_Letter_Combinations_Of_A_Phone_Number/LetterCombinationsOfAPhoneNumberTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/medium/_017_Letter_Combinations_Of_A_Phone_Number/LetterCombinationsOfAPhoneNumber.java" />
+        <option value="$PROJECT_DIR$/src/main/java/medium/_018_4Sum/FourSum.java" />
       </list>
     </option>
   </component>
@@ -500,6 +513,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="PackagesPane">
         <subPane>
           <expand>
@@ -624,6 +638,15 @@
               <item name="LeetCode-Practice-Java" type="b2602c69:ProjectViewProjectNode" />
               <item name="LeetCode-Practice-Java" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="medium" type="462c0819:PsiDirectoryNode" />
+              <item name="_018_4Sum" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCode-Practice-Java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeetCode-Practice-Java" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
             </path>
             <path>
@@ -654,7 +677,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -663,7 +685,7 @@
     <property name="Repository.Attach.Sources" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540437973643" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540519238334" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
@@ -672,7 +694,7 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.3858093" />
-    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.notifications" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
@@ -844,7 +866,8 @@
       <workItem from="1539825786910" duration="2575000" />
       <workItem from="1540266335308" duration="4235000" />
       <workItem from="1540347728044" duration="1548000" />
-      <workItem from="1540430426938" duration="5887000" />
+      <workItem from="1540430426938" duration="6562000" />
+      <workItem from="1540518416964" duration="953000" />
     </task>
     <task id="LOCAL-00001" summary="Commit Two Sum Solution">
       <created>1538122350955</created>
@@ -916,7 +939,14 @@
       <option name="project" value="LOCAL" />
       <updated>1540349671099</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Commit 017 Letter Combinations of a Phone Number">
+      <created>1540438026494</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1540438026495</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -952,13 +982,13 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="71634000" />
+    <option name="totallyTimeSpent" value="73262000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2911311" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.29498714" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -1008,7 +1038,8 @@
     <MESSAGE value="Commit 009 Palindrome Number" />
     <MESSAGE value="Commit 0015 3Sum &#10;delete somethings" />
     <MESSAGE value="Commit 0016 3Sum Closest" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit 0016 3Sum Closest" />
+    <MESSAGE value="Commit 017 Letter Combinations of a Phone Number" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit 017 Letter Combinations of a Phone Number" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/main/java/structure/TreeNode.java">
@@ -1228,10 +1259,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/medium/_015_3Sum/ThreeSum.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/medium/_016_3Sum_Closest/ThreeSumClosest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="608">
-          <caret line="32" column="14" selection-start-line="32" selection-start-column="14" selection-end-line="32" selection-end-column="14" />
+        <state relative-caret-position="931">
+          <caret line="51" column="22" selection-start-line="34" selection-start-column="8" selection-end-line="51" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/medium/_017_Letter_Combinations_Of_A_Phone_Number/LetterCombinationsOfAPhoneNumberTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="15" column="38" selection-start-line="15" selection-start-column="38" selection-end-line="15" selection-end-column="38" />
         </state>
       </provider>
     </entry>
@@ -1242,28 +1280,33 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/medium/_016_3Sum_Closest/ThreeSumClosest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/medium/_015_3Sum/ThreeSum.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="578">
-          <caret line="51" column="22" lean-forward="true" selection-start-line="34" selection-start-column="8" selection-end-line="51" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/medium/_017_Letter_Combinations_Of_A_Phone_Number/LetterCombinationsOfAPhoneNumberTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="15" column="38" lean-forward="true" selection-start-line="15" selection-start-column="38" selection-end-line="15" selection-end-column="38" />
+        <state relative-caret-position="608">
+          <caret line="32" column="14" selection-start-line="32" selection-start-column="14" selection-end-line="32" selection-end-column="14" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/medium/_017_Letter_Combinations_Of_A_Phone_Number/LetterCombinationsOfAPhoneNumber.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="92">
-          <caret line="29" column="36" lean-forward="true" selection-start-line="29" selection-start-column="36" selection-end-line="29" selection-end-column="36" />
+        <state relative-caret-position="456">
+          <caret line="24" column="6" selection-start-line="24" selection-start-column="6" selection-end-line="24" selection-end-column="6" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#956#957#0" expanded="true" />
             <element signature="e#983#984#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/medium/_018_4Sum/FourSum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1172">
+          <caret line="89" column="25" lean-forward="true" selection-start-line="89" selection-start-column="25" selection-end-line="89" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#959#960#0" expanded="true" />
+            <element signature="e#985#986#0" expanded="true" />
           </folding>
         </state>
       </provider>

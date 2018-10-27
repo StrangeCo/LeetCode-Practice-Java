@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="guowenlong123_main" target="1.8" />
+      <module name="guowenlong123_test" target="1.8" />
+      <module name="LeetCode-Pracc_main" target="1.8" />
+      <module name="LeetCode-Pracc_test" target="1.8" />
+      <module name="LeetCode-Pracctice_main" target="1.8" />
+      <module name="LeetCode-Pracctice_test" target="1.8" />
+      <module name="LeetCode-Practic_main" target="1.8" />
+      <module name="LeetCode-Practic_test" target="1.8" />
+      <module name="LeetCode-Practice-J_main" target="1.8" />
+      <module name="LeetCode-Practice-J_test" target="1.8" />
+      <module name="LeetCode-Practice-Java_main" target="1.8" />
+      <module name="LeetCode-Practice-Java_test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
